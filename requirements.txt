@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pydantic
-numpy
-scikit-learn
-# transformers  # Uncomment if using HuggingFace models in the future
