@@ -2,13 +2,14 @@
 
 > **“Exposing hidden persuasion tactics in your everyday chats.”**
 
-## 🚀 Repo Stats  
-
-![Stars](https://img.shields.io/github/stars/ErrVoid/Manipulense?style=social)  
-![Forks](https://img.shields.io/github/forks/ErrVoid/Manipulense?style=social)  
-![Issues](https://img.shields.io/github/issues/ErrVoid/Manipulense)  
-![Pull Requests](https://img.shields.io/github/issues-pr/ErrVoid/Manipulense)  
-![Last Commit](https://img.shields.io/github/last-commit/ErrVoid/Manipulense)  
+## 🚀 Repo Stats 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ErrVoid/Manipulense?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/ErrVoid/Manipulense?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/ErrVoid/Manipulense" alt="Issues"/>
+  <img src="https://img.shields.io/github/issues-pr/ErrVoid/Manipulense" alt="Pull Requests"/>
+  <img src="https://img.shields.io/github/last-commit/ErrVoid/Manipulense" alt="Last Commit"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-%F0%9F%90%8D%20Python-blue?style=for-the-badge&logo=python" />
@@ -27,6 +28,7 @@ Every time you refresh this repo, you’re resisting manipulation 😉
 <p align="center">
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="fun gif"/>
 </p>
+
 ---
 
 ## 🌍 Problem We’re Solving  
@@ -117,3 +119,14 @@ git clone https://github.com/ErrVoid/Manipulense/
 cd Manipulense/flutter_app
 flutter pub get
 flutter run
+```
+### 📱 Quick Install (APK)
+
+Or you can directly install the APK from the releases page: <p> 👉 Download <a href="https://github.com/ErrVoid/Manipulense/releases/tag/v1.0.0">APK v1.0.0</a> </p> 
+
+
+---
+
+ <p align="center"> Made with ❤️ by <a href="https://github.com/ErrVoid">ErrVoid</a> & <a href="https://github.com/Piyushsakhuja">Piyushsakhuja</a> </p> 
+
+---
