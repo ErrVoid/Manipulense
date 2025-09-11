@@ -2,6 +2,31 @@
 
 > **“Exposing hidden persuasion tactics in your everyday chats.”**
 
+## 🚀 Repo Stats  
+
+![Stars](https://img.shields.io/github/stars/ErrVoid/Manipulense?style=social)  
+![Forks](https://img.shields.io/github/forks/ErrVoid/Manipulense?style=social)  
+![Issues](https://img.shields.io/github/issues/ErrVoid/Manipulense)  
+![Pull Requests](https://img.shields.io/github/issues-pr/ErrVoid/Manipulense)  
+![Last Commit](https://img.shields.io/github/last-commit/ErrVoid/Manipulense)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-%F0%9F%90%8D%20Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/AI-HuggingFace-orange?style=for-the-badge&logo=huggingface" />
+</p>
+
+---
+
+
+## 🪄 Easter Egg for Hackathon Judges  
+
+👉 Did you know?  
+Every time you refresh this repo, you’re resisting manipulation 😉  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="fun gif"/>
+</p>
 ---
 
 ## 🌍 Problem We’re Solving  
