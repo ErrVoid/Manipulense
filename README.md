@@ -18,7 +18,7 @@ There is **no tool** today that can read a conversation and explain:
 
 ---
 
-## ✨ Our Solution: ConvGuard  
+## ✨ Our Solution: Manipulense  
 Manipulense is an **AI-powered conversation analyzer** that detects manipulation tactics in chats and explains them in **human language**.  
 
 💬 Upload a chat log → ConvGuard highlights manipulative lines and shows you **why** they were manipulative.  
